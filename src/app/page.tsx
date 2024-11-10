@@ -9,6 +9,7 @@ import Middle from './components/Middle'
 import Button from './components/Button'
 import Grid from './components/Grid'
 import Footer from './components/Footer'
+import Seclast from './components/Seclast'
 
 function Home() {
   return (
@@ -23,6 +24,7 @@ function Home() {
     <Middle/>
     <Button/>
     <Grid/>
+    <Seclast/>
     <Footer/>    
     
     </div>
