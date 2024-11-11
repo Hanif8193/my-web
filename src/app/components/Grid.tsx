@@ -16,15 +16,15 @@ function Grid() {
       <div className=" flex  items-center gap-2 mx-auto  text-white px-5 py-15 ">
         <div className=" text-center">
           {" "}
-          <Image src={p1} alt="IMG" width={4000} height={4000} />{" "}
+          <Image src={p1} alt="IMG" width={6000} height={6000} />{" "}
         </div>
         <div className="  text-center">
           {" "}
-          <Image src={p5} alt="IMG" width={4000} height={4000} />
+          <Image src={p5} alt="IMG" width={7000} height={7000} />
         </div>
         <div className="  text-center">
           {" "}
-          <Image src={p3} alt="IMG" width={4000} height={4000} />
+          <Image src={p3} alt="IMG" width={6000} height={6000} />
         </div>
       </div>
       <div>

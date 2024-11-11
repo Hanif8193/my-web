@@ -12,23 +12,23 @@ function Button() {
           <Image src={p3} alt="img" width={20} height={20} />
           Resturant
         </button>
-        <button className="text-white flex justify-between items-center gap-2 px-5  bg-gray-600 rounded-3xl ">
+        <button className="text-white flex justify-between items-center gap-2 px-5 border border-yellow-600  bg-transparent rounded-3xl ">
           {" "}
-          <Image src={r} alt="round" width={20} height={20}/> Real Estate
+          <Image src={r} alt="round" width={20} height={20} className="bg-yellow-600 rounded-full"/> Real Estate
         </button>
-        <button className="text-white flex justify-between items-center gap-2 px-5  bg-gray-600 rounded-3xl">
+        <button className="text-white flex justify-between items-center gap-2 px-5 border border-yellow-600 bg-transparent rounded-3xl">
           {" "}
-          <Image src={r} alt="round" width={20} height={20}/>
+          <Image src={r} alt="round" width={20} height={20} className="bg-yellow-600 rounded-full"/>
            Fashion
         </button>
-        <button className="text-white flex justify-between items-center gap-2 px-5  bg-gray-600 rounded-3xl">
+        <button className="text-white flex justify-between items-center gap-2 px-5 border border-yellow-600 bg-transparent rounded-3xl">
           {" "}
-          <Image src={r} alt="round" width={20} height={20}/>
+          <Image src={r} alt="round" width={20} height={20} className="bg-yellow-600 rounded-full"/>
           Education
         </button>
-        <button className="text-white flex justify-between items-center gap-2 px-5  bg-gray-600 rounded-3xl">
+        <button className="text-white flex justify-between items-center gap-2 px-5 border border-yellow-600 bg-transparent rounded-3xl">
           {" "}
-          <Image src={r} alt="round" width={20} height={20}/>
+          <Image src={r} alt="round" width={20} height={20} className="bg-yellow-600 rounded-full"/>
           Banking
         </button>
       </div>

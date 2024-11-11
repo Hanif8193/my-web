@@ -9,6 +9,8 @@ function contact() {
 <Link href={"/about"}></Link>
 <Link href={"/project"}></Link>
 <Link href={"/services"}></Link>
+<p> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+   Deserunt qui cupiditate ab facilis! Facilis, accusamus!</p>
 
     </div>
   )

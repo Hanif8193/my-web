@@ -10,6 +10,8 @@ function About() {
 <Link href={"/sevices"}></Link>
 <Link href={"/contact"}></Link>
 
+<p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam eum perferendis numquam, 
+  sed saepe excepturi possimus! Numquam tenetur nulla amet.</p>
 
     </div>
   )
