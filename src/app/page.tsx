@@ -10,6 +10,7 @@ import Seclast from './components/Seclast'
 import Footer from './components/Footer'
 import Button from './components/Button'
 
+
 function Home() {
   return (
     <div>

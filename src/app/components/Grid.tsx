@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
-import p1 from "/public/1.png";
-import p5 from "/public/5.png";
-import p3 from "/public/3.png";
-import f3 from "/public/frame 3.png";
-import f4 from "/public//frame 4.png";
-import f5 from "/public/frame 5.png";
+import p1 from "../../../public/1.png";
+import p5 from "../../../public/5.png";
+import p3 from "../../../public/3.png";
+import f3 from "../../../public/frame 3.png";
+import f4 from "../../../public//frame 4.png";
+import f5 from "../../../public/frame 5.png";
 
 function Grid() {
   return (

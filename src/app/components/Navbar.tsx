@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
-import Image from 'next/image'
-import Im from "/public/log.png"
+//import Image from 'next/image'
+// import Im from "/public/log.png"
 
 
 function Navbar() {

@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import p3 from "/public/poster3.png";
-import r from "/public/round.png";
+import p3 from "../../../public/poster3.png";
+import r from "../../../public/round.png";
 
 function Button() {
   return (

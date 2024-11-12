@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Image from 'next/image'
-import p2 from '/public/p2.png'
+import p2 from '../../../public/p2.png'
 
 function Second() {
   return (
