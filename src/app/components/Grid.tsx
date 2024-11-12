@@ -4,7 +4,7 @@ import p1 from "../../../public/1.png";
 import p5 from "../../../public/5.png";
 import p3 from "../../../public/3.png";
 import f3 from "../../../public/frame_3.png";
-import f4 from "../../../public//frame_4.png";
+import f4 from "../../../public/frame_4.png";
 import f5 from "../../../public/frame_5.png";
 
 function Grid() {
